@@ -6,4 +6,4 @@ This work is a culmination of years cutting my teeth in experimentation platform
 
 | Pattern # | Description | Good Pattern or Bad Pattern? |
 |-----------|-------------|------------------------------|
-| [000](s/blob/main/patterns/pattern_000_simple_aa.ipynb) | Simple A/A experiment, no measurement | Good |
+| [000](./patterns/pattern_000_simple_aa.ipynb) | Simple A/A experiment, no measurement | Good |
